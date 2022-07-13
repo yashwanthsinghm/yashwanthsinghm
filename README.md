@@ -13,12 +13,12 @@
 
 ## **Languages and tools:**  
 
-1)Embedded C 
-2)Rust
-3)Verilog
-4)C++
-5)VHDL
-6)Python
+1)Embedded C <br>
+2)Rust       <br>
+3)Verilog.   <br>
+4)C++.       <br>
+5)VHDL.      <br>
+6)Python.    <br>
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
 ## GitHub Stats 
