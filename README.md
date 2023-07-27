@@ -3,7 +3,7 @@
 <!-- Hero Section -->
 # I'm Yashwanth Singh M
 
-- 😄 A passionate about eletronics and computer low level programming. 
+- I'm a passionate Engineer who thrives on working on cool and innovative projects. My expertise spans the fascinating realms of Quantum Computing, Embedded Systems, Security, Operating Systems, WebAssembly (WASM), and AI, among others. As an expert Rust and C programmer, my special interest lies in low-level programming. Additionally, I am well-versed in other programming languages used in both frontend and backend development.
 - ⚡ I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <details>
@@ -34,24 +34,12 @@
 
 ## Why Me ?
 
-- I can create **Blazingly Fast** and **Secure** **Bootloader** with `Rust`
-- I can implement `CI/CD pipeline`
+- I have built secure buildings like **Blazingly Fast** **Secure** **Bootloader**,**Communication** ,**Process** and signing tool in `Rust`
+- I have implemented `CI/CD pipeline`
+- I have worked and working on multiple architecture from x86, ARM and riscv on differnt microcontroller and microprocessor.
+- I have worked on WASM
 
-## About Me
 
-<br />
-
-🔭 I’m currently working on **Rust** and **Secure Bootloaders**
-
-🌱 I’m currently learning **Rust**, **Crypto** & **C++**
-
-💬 Ask me about **Rust**, **Crypto** and **Embedded**
-
-🌏 I'm Interested in `Rust` development.
-
-📑 I'm always **learning new** technologies and **improving** myself
-
-📗 I'm an **autodidact** learner, so I teach myself **effectively**
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=22&center=true&vCenter=true&color=008080&lines=Thanks+For+Visiting+My+Profile+🙏;Please+Star+My+Repositories;Have+A+Great+Day+!!!" />
