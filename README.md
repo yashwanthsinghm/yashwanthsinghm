@@ -32,17 +32,24 @@
 
 <!-- What I offer -->
 
-## Why Me ?
+## **Area of Work** 
 
-- I have built secure buildings like **Blazingly Fast** **Secure** **Bootloader**,**Communication** ,**Process** and signing tool in `Rust`
-- I have implemented `CI/CD pipeline`
-- I have worked and working on multiple architecture from x86, ARM and riscv on differnt microcontroller and microprocessor.
-- I have worked on WASM
-
-
+1.   Secure compute architect. 
+2.   Secure Firmware design.
+3.   Low level secure driver development for STM32,NXP, Microchip, Broadcom , Nvidia, Infineon , renesas ,intel etc.. chip sets with Arm (cortex and cortex A), X86 and risc v architecture. 
+4.   Rust and C expert programmer, RTL design(Verilog and VHDL).
+5.   Security design against quantum attacks (PQC).
+6.   Secure Boot, update , communicate, process, storage, compute, execute and monitor. 
+7.   **rustBoot** secure Boot loader open source project. 
+8.   Shakti processor secure board bring up on ARTY A7 -100T FPGA and implemented shakti_riscv_hal. 
+9.   Quantum and high computation.
+10.  GPU implementation.
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=22&center=true&vCenter=true&color=008080&lines=Thanks+For+Visiting+My+Profile+🙏;Please+Star+My+Repositories;Have+A+Great+Day+!!!" />
 </p>
- 
+<p align="center">
+<img width = 25% src = "https://profile-counter.glitch.me/{yashwanthsinghm}/count.svg">
+</p>
+
  </details>
